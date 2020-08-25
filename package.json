@@ -1,0 +1,28 @@
+{
+  "name": "tallerdisciplinas",
+  "version": "1.0.0",
+  "description": "Estructura de archivos dispuesta en razon de las relaciones que se presentan entre la informatica y otras disciplinas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiovillagran/relaciones-informaticas.git"
+  },
+  "keywords": [
+    "taller",
+    "maestria",
+    "ciencias",
+    "de",
+    "la",
+    "informacion",
+    "ud"
+  ],
+  "author": "Sergio Villagran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiovillagran/relaciones-informaticas/issues"
+  },
+  "homepage": "https://github.com/sergiovillagran/relaciones-informaticas#readme"
+}
