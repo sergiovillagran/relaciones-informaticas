@@ -9,3 +9,4 @@ npm install -g madge
 apt-get install graphviz 
 ### Run
 madge --image graph.svg lib/disciplines/informatica.js
+open graph.svg
